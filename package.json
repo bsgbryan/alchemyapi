@@ -1,0 +1,24 @@
+{
+  "name": "alchemyapi",
+  "version": "1.0.0",
+  "description": "javascript wrapper for AlchemyAPI ReST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bsgbryan/alchemyapi.git"
+  },
+  "keywords": [
+    "alchemy",
+    "api",
+    "rest"
+  ],
+  "author": "Bryan Maynard <bsgbryan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsgbryan/alchemyapi/issues"
+  },
+  "homepage": "https://github.com/bsgbryan/alchemyapi"
+}
