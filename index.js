@@ -197,6 +197,7 @@ function AlchemyAPI() {
     } else {
       postReq.write(reqBody);
       postReq.end();
+      postReq.on('error', function (err) { console.log('AlchemyAPI error', err); });
     }
   };
 

@@ -1,6 +1,6 @@
 {
-  "name": "alchemyapi",
-  "version": "1.0.0",
+  "name": "magnus",
+  "version": "1.0.1",
   "description": "javascript wrapper for AlchemyAPI ReST services",
   "main": "index.js",
   "scripts": {
